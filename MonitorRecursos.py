@@ -7,7 +7,7 @@
 #
 # Humberto Alcocer <humbertowoody@gmail.com>
 
-# Librerías de uso para 
+# Librerías de uso para acceder a los datos del sistema.
 import platform, psutil, multiprocessing, time
 
 # Esta función proporciona los datos básicos de la instalación del
