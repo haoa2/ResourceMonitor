@@ -66,8 +66,3 @@ def main():
 # Redirección a la función principal
 if __name__ == '__main__':
 	main()
-
-# Función oculta
-def pasar_materia_con_10():
-	print 'Porfa profe :c'
-	pass
