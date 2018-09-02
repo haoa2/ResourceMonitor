@@ -53,7 +53,7 @@ def main():
 			datos_procesador()
 			datos_ram()
 			datos_hdd()
-			# Pausa de 2 segundos para no freír el procesador
+			# Pausa de 2 segundos
 			time.sleep(2)
 			print '--------------------------------------------------------------'
 			pass
