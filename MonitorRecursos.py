@@ -49,10 +49,10 @@ def main():
 	print '--------------------------------------------------------------'
 	try:
 		while 1:
-			datos_so()
-			datos_procesador()
-			datos_ram()
-			datos_hdd()
+			datos_so() # Muestra datos del Sistema Operativo.
+			datos_procesador() # Muestra datos del Procesador.
+			datos_ram() # Muestra datos de la memoria RAM.
+			datos_hdd() # Muestra datos del Disco Duro.
 			# Pausa de 2 segundos
 			time.sleep(2)
 			print '--------------------------------------------------------------'
